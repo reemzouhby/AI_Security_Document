@@ -48,22 +48,28 @@ The presentations focus on **AI Security**, covering risks, attacks, and defense
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ai-security-presentations.git
+   git clone https://github.com/reemzouhby/AI_Security_Document.git
    ```
 
 2. Open the desired presentation from the `/ppt` folder.  
 
-3. For demos, check the explanations included in the last slides of the relevant presentations.  
-
 ---
+---
+
+## 💻 Demo
+
+The demos described in the last four presentations (Evasion, Poisoning, Inference, Extraction) are implemented and available in this GitHub repository:
+
+[Streamlit AI Security Demos](https://github.com/reemzouhby/Streamlit-)
+
+You can clone the repo and follow the instructions in its README to run the interactive demos locally using Streamlit.
+
 
 ## 📌 Notes
 
 - This repository **does not include live demos**, only **explanations of how the attacks were implemented**.  
-- All demos were implemented using **ART** and **Streamlit** during the internship.  
+- All demos were implemented using **ART** and **Streamlit** during the internship is on  
 
 ---
 
-## 📜 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
