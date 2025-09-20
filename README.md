@@ -60,7 +60,7 @@ The presentations focus on **AI Security**, covering risks, attacks, and defense
 
 The demos described in the last four presentations (Evasion, Poisoning, Inference, Extraction) are implemented and available in this GitHub repository:
 
-[Streamlit AI Security Demos](https://github.com/reemzouhby/Streamlit-)
+[HYPATIA APP](https://github.com/reemzouhby/Hypatia-ML)
 
 You can clone the repo and follow the instructions in its README to run the interactive demos locally using Streamlit.
 
