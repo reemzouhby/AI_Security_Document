@@ -74,7 +74,7 @@ You can clone the repo and follow the instructions in its README to run the inte
 ## 📌 Notes
 
 - This repository **does not include live demos**, only **explanations of how the attacks were implemented**.  
-- All demos were implemented using **ART** and **Streamlit** during the internship is on  
+- All demos were implemented using **ART** and **Streamlit** during the internship is on  [HYPATIA APP](https://github.com/reemzouhby/Hypatia-ML)
 
 ---
 
