@@ -43,6 +43,12 @@ The presentations focus on **AI Security**, covering risks, attacks, and defense
 - [Streamlit](https://streamlit.io/)  
 
 ---
+---
+
+## 📊 Mermaid Diagrams
+
+This repository also includes the **Mermaid diagrams** used in the presentations, stored in the `/mermaid` folder.  
+
 
 ## 🚀 How to Use
 
